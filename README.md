@@ -1,2 +1,2 @@
 # To-Do-List
-A todo list on express with ejs with database on mongoDB
+A todo list on express with ejs and database on mongoDB
